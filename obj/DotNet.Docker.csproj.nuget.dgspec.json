@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/guille/Documents/Trainning/C#/sisorg_console_app/DotNet.Docker.csproj": {}
+  },
+  "projects": {
+    "/home/guille/Documents/Trainning/C#/sisorg_console_app/DotNet.Docker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/guille/Documents/Trainning/C#/sisorg_console_app/DotNet.Docker.csproj",
+        "projectName": "DotNet.Docker",
+        "projectPath": "/home/guille/Documents/Trainning/C#/sisorg_console_app/DotNet.Docker.csproj",
+        "packagesPath": "/home/guille/.nuget/packages/",
+        "outputPath": "/home/guille/Documents/Trainning/C#/sisorg_console_app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/guille/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

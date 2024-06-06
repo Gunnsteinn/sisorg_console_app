@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "665fb8ec5667b7efedeb5e49",
+    "index": 0,
+    "guid": "5459e426-6d1a-43c1-adb1-fc2f9d1cf2e3",
+    "isActive": true,
+    "balance": "$3,640.79",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "brown",
+    "name": "Morin Baird",
+    "gender": "male",
+    "company": "ZBOO",
+    "email": "morinbaird@zboo.com",
+    "phone": "+1 (928) 535-3626",
+    "address": "680 Jaffray Street, Brule, West Virginia, 3443",
+    "about": "Nisi et exercitation consequat laborum aliquip amet do magna duis proident duis sint fugiat culpa. Officia id do reprehenderit cillum sunt culpa deserunt elit cupidatat nostrud irure enim aliquip nulla. Culpa ullamco esse cillum ipsum eu occaecat esse elit est non minim. Ex sit excepteur aliqua dolor labore. Occaecat amet aute ullamco proident quis sunt quis laborum nulla. Adipisicing sint nulla do quis elit mollit consectetur et. Pariatur deserunt id ullamco quis mollit id veniam.\r\n",
+    "registered": "2018-08-06T08:24:14 +03:00",
+    "latitude": 43.147928,
+    "longitude": 84.372874,
+    "tags": [
+      "commodo",
+      "ex",
+      "elit",
+      "elit",
+      "cupidatat",
+      "sunt",
+      "Lorem"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Vasquez Maddox"
+      },
+      {
+        "id": 1,
+        "name": "Brandie Cline"
+      },
+      {
+        "id": 2,
+        "name": "Janet Mcintosh"
+      }
+    ],
+    "greeting": "Hello, Morin Baird! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "665fb8ec9f912b39cf8f5044",
+    "index": 1,
+    "guid": "b3aed8bd-8740-453b-9bec-036046733b71",
+    "isActive": false,
+    "balance": "$2,225.98",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Inez Howell",
+    "gender": "female",
+    "company": "SIGNITY",
+    "email": "inezhowell@signity.com",
+    "phone": "+1 (929) 534-3049",
+    "address": "783 Horace Court, Nord, Virginia, 7242",
+    "about": "Aliquip qui ad labore irure aliqua duis cillum sint tempor cillum. Minim dolore cupidatat veniam eiusmod qui cupidatat labore sint eiusmod ut. Cillum sint exercitation laborum officia dolore cillum voluptate nulla irure officia aliquip in sunt. Id amet nisi ut excepteur incididunt. Tempor consectetur ut reprehenderit Lorem.\r\n",
+    "registered": "2020-05-16T08:03:36 +03:00",
+    "latitude": -51.061081,
+    "longitude": 61.891309,
+    "tags": [
+      "occaecat",
+      "occaecat",
+      "aute",
+      "laborum",
+      "minim",
+      "minim",
+      "nulla"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Barton Hebert"
+      },
+      {
+        "id": 1,
+        "name": "Teresa Solomon"
+      },
+      {
+        "id": 2,
+        "name": "Kelley Tran"
+      }
+    ],
+    "greeting": "Hello, Inez Howell! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "665fb8ece321c6fd04bd141d",
+    "index": 2,
+    "guid": "fca71171-5061-4d52-b538-a1465e547797",
+    "isActive": false,
+    "balance": "$3,903.82",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": "Valenzuela Delgado",
+    "gender": "male",
+    "company": "JETSILK",
+    "email": "valenzueladelgado@jetsilk.com",
+    "phone": "+1 (948) 456-2226",
+    "address": "576 Lafayette Avenue, Abiquiu, New York, 2536",
+    "about": "Sit nisi ullamco consectetur officia consequat tempor fugiat consectetur. Incididunt sunt reprehenderit pariatur sint enim adipisicing eiusmod consequat sunt. Do sunt sunt proident reprehenderit eu. Sunt laborum amet exercitation aute adipisicing velit reprehenderit cillum labore proident consectetur consectetur. Exercitation ex consectetur consectetur officia adipisicing quis mollit aliqua.\r\n",
+    "registered": "2015-06-06T12:29:43 +03:00",
+    "latitude": -13.762807,
+    "longitude": -42.410996,
+    "tags": [
+      "culpa",
+      "do",
+      "labore",
+      "ipsum",
+      "laboris",
+      "tempor",
+      "exercitation"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Petersen Workman"
+      },
+      {
+        "id": 1,
+        "name": "Sweeney Mooney"
+      },
+      {
+        "id": 2,
+        "name": "Yesenia Baxter"
+      }
+    ],
+    "greeting": "Hello, Valenzuela Delgado! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
